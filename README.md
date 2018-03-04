@@ -11,7 +11,7 @@
 
 ### 安装Node.js
 
--- [查看教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143450141843488beddae2a1044cab5acb5125baf0882000)
+  - [查看教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143450141843488beddae2a1044cab5acb5125baf0882000)
 
 ### 一、小程序官方教程
 
@@ -19,12 +19,12 @@
 
 ### 二、Wafer2学习
 
-  - [Wafer2](https://github.com/tencentyun/wafer2-quickstart)
+  - [Wafer2仓库](https://github.com/tencentyun/wafer2-quickstart)
 
 ### 三、Koa学习
 
-  - [Koa](https://github.com/koajs/koa)
+  - [Koa仓库](https://github.com/koajs/koa)
  
 ### 四、Knex学习
 
-  - [Knex](https://github.com/tgriesser/knex)
+  - [Knex仓库](https://github.com/tgriesser/knex)
