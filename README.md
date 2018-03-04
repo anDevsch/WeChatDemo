@@ -23,8 +23,8 @@
 
 ### 三、Koa学习
 
-  -[Koa](https://github.com/koajs/koa)
+  - [Koa](https://github.com/koajs/koa)
  
 ### 四、Knex学习
 
-  --[Knex](https://github.com/tgriesser/knex)
+  -[Knex](https://github.com/tgriesser/knex)
