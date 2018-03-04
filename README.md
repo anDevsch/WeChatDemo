@@ -5,13 +5,13 @@
 
 ## 开发环境
 
--  [Node.js 8.2.1](#安装Node.js)
+-  Node.js 8.2.1
 -  MySQL 5.7.18
 -  Nginx 1.10.2
 
 ### 安装Node.js
 
-  -[查看教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143450141843488beddae2a1044cab5acb5125baf0882000)
+-- [查看教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143450141843488beddae2a1044cab5acb5125baf0882000)
 
 ### 一、小程序官方教程
 
