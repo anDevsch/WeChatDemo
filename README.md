@@ -5,9 +5,9 @@
 
 ## 开发环境
 
-  - [Node.js 8.2.1](#安装Node.js)
-  - MySQL 5.7.18
-  - Nginx 1.10.2
+-  [Node.js 8.2.1](#安装Node.js)
+-  MySQL 5.7.18
+-  Nginx 1.10.2
 
 ### 安装Node.js
 
@@ -15,16 +15,16 @@
 
 ### 一、小程序官方教程
 
-  -[查看教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2018228)
+- [查看教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2018228)
 
 ### 二、Wafer2学习
 
-  -[Wafer2](https://github.com/tencentyun/wafer2-quickstart)
+- [Wafer2](https://github.com/tencentyun/wafer2-quickstart)
 
 ### 三、Koa学习
 
-  - [Koa](https://github.com/koajs/koa)
+- [Koa](https://github.com/koajs/koa)
  
 ### 四、Knex学习
 
-  -[Knex](https://github.com/tgriesser/knex)
+- [Knex](https://github.com/tgriesser/knex)
