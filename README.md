@@ -19,7 +19,7 @@
 
 ### 二、Wafer2学习
 
-  - [Wafer2仓库](https://github.com/tencentyun/wafer2-quickstart)
+  - [Wafer2仓库](https://github.com/tencentyun/wafer2-quickstart)
 
 ### 三、Koa学习
 
